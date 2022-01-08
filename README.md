@@ -1,2 +1,2 @@
 # Typescript-game
-Live site: 
+Live site: https://alifjs.github.io/Typescript-game/
